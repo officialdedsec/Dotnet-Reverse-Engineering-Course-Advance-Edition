@@ -39,26 +39,47 @@ Students interested in Cyber Security and Pure Reverse Engineering
 Course Topics:
 
 Introduction To Dotnet Reverse Engineering
+
 Setup Lab For Reverse Engineering
+
 Required Tools For Reverse Engineering
+
 Best Technique Of Reverse Engineeirng
+
 Decrypt Program Passwords In Runtime
+
 How To Crack Pcode Programs
+
 How To Bypass Native Visual Basic Functions
+
 Principles Of .Net Analysis & Cracking
+
 How To Analysis Dotnet Malware & Spyware
+
 How To Bypass Serial Key Check Mobihok RAT
+
 How To Patch Spynote 7.4 Android RAT
+
 How To Crack Spymax 4.0 With Redirection Technique
+
 How To Fully Crack MobiSpy RAT
+
 How To Crack Anubis Botnet 2.5 Builder
+
 How To Crack Hardware ID Protected EXE APK Encryptor
+
 How To Dump Bypass Hardware ID Programs From Memory
+
 How To Crack Latest Email Extractor Studio
+
 How To Make Keygen For Programs Using Algorithm
+
 How To Complete Modify Any Program
+
 Best Method To Protect Programs Against RE
+
 Bonus Pdfs And Tools For Dotnet Reverse Engineering
+
 Note:- Open Support Ticket After Buying This Course for getting Your Player Password
 
 Click Here To View Demo Video
