@@ -1,4 +1,4 @@
-# Dotnet-Reverse-Engineering-Course-Advance-Edition
+# Dotnet Reverse Engineering Course Advance Edition
 In this course, you will learn how to check,analyze &amp; Crack .NET Softwares and you will learn almost every kind of cracking methods in this course. This is a beginner’s course and targeted to those who are absolutely new to this field. I will take you from zero to a proficient level in the field of Reverse Engineering.You will learn using plenty of practical walk-throughs.We will learn the basic knowledge and skills in reverse engineering and analyzing malware. All the needed tools and where to download them will be provided. By the end of this course you will become a Professional in reverse engineering of .net programs.
 
 
